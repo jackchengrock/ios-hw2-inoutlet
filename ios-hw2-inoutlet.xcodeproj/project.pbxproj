@@ -14,6 +14,7 @@
 		45702F582264F21D00A5F8D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45702F562264F21D00A5F8D2 /* LaunchScreen.storyboard */; };
 		45702F632264F21D00A5F8D2 /* ios_hw2_inoutletTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45702F622264F21D00A5F8D2 /* ios_hw2_inoutletTests.swift */; };
 		45702F6E2264F21D00A5F8D2 /* ios_hw2_inoutletUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45702F6D2264F21D00A5F8D2 /* ios_hw2_inoutletUITests.swift */; };
+		45702F862264F7CD00A5F8D2 /* SharpInageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45702F852264F7CD00A5F8D2 /* SharpInageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		45702F692264F21D00A5F8D2 /* ios-hw2-inoutletUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios-hw2-inoutletUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		45702F6D2264F21D00A5F8D2 /* ios_hw2_inoutletUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_hw2_inoutletUITests.swift; sourceTree = "<group>"; };
 		45702F6F2264F21D00A5F8D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45702F852264F7CD00A5F8D2 /* SharpInageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharpInageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				45702F4D2264F21B00A5F8D2 /* AppDelegate.swift */,
 				45702F4F2264F21B00A5F8D2 /* ViewController.swift */,
 				45702F512264F21B00A5F8D2 /* Main.storyboard */,
+				45702F852264F7CD00A5F8D2 /* SharpInageView.swift */,
 				45702F542264F21D00A5F8D2 /* Assets.xcassets */,
 				45702F562264F21D00A5F8D2 /* LaunchScreen.storyboard */,
 				45702F592264F21D00A5F8D2 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				45702F502264F21B00A5F8D2 /* ViewController.swift in Sources */,
 				45702F4E2264F21B00A5F8D2 /* AppDelegate.swift in Sources */,
+				45702F862264F7CD00A5F8D2 /* SharpInageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
